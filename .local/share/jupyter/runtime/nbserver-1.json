@@ -1,11 +1,20 @@
 {
+<<<<<<< HEAD
   "base_url": "/user/jake-lockwood-well-production-2xoc1mog/",
+=======
+  "base_url": "/user/jake-lockwood-well-production-bfeor7ij/",
+>>>>>>> b42ffcc8fdbf321f0457707cf62b3550962e2d05
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
+<<<<<<< HEAD
   "token": "p9dSNwhjR3G-t_muhiAAyA",
   "url": "http://0.0.0.0:8888/user/jake-lockwood-well-production-2xoc1mog/"
+=======
+  "token": "g69BAvJaQiy2_K_Jqwyt6Q",
+  "url": "http://0.0.0.0:8888/user/jake-lockwood-well-production-bfeor7ij/"
+>>>>>>> b42ffcc8fdbf321f0457707cf62b3550962e2d05
 }
